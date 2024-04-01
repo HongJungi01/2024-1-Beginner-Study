@@ -18,6 +18,6 @@ main branch가 있다면. main branch 속 a코드를 수정하고싶다!, 근데
 merge commit
 ㄴbranch를 그대로 유지한 채 main에 병합시키는 것. 겹치는 파일의 이름에 복사본2 태그를 붙인다고 생각하면 될 듯 하다.
 squash an merge
-ㄴ말 그대로 뭉개기. 파일 덮어쓰기락 생각하면 될 듯 하다.
+ㄴ말 그대로 뭉개기. 파일 덮어쓰기라고 생각하면 될 듯 하다.
 rebase and merge
 ㄴbranch 속 모든 commit들을 유지한 채 merge시키기. 최종 최최종 진짜최최종 찐막 파일이 그대로 간다고 생각하면 될 듯 하다.  
