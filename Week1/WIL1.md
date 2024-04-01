@@ -34,3 +34,5 @@ git commit -m "<내용>"
 ㄴ파일을 git에 commit하기  
 git push origin main  
 ㄴ파일을 github에 업로드  
+
+https://github.com/HongJungi01/HongJungi01
