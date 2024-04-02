@@ -21,3 +21,5 @@ squash an merge
 ㄴ말 그대로 뭉개기. 파일 덮어쓰기라고 생각하면 될 듯 하다.  
 rebase and merge  
 ㄴbranch 속 모든 commit들을 유지한 채 merge시키기. 최종 최최종 진짜최최종 찐막 파일이 그대로 간다고 생각하면 될 듯 하다.  
+
+https://github.com/HongJungi01/2024-1-Beginner-Study/pull/3
