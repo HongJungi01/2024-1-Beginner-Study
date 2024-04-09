@@ -9,7 +9,7 @@ GDSC는 무엇의 약자인지 적으시오.
 Git에서 파일의 상태는 크게 untracked와 tracked로 나눌 수 있다.  
 그렇다면 tracked에는 어떤 상태가 있는지 모두 적으시오.
 
-- 답: 이 문장을 지우고 답을 작성하면 됩니다.
+- 답: unmodified, modified, staged
 
 ### Q2
 Git에는 세 가지 영역이 있다.  
@@ -57,7 +57,7 @@ s2d3f4g fourth commit
 이때, fourth commit까지 제거하고 fourth commit과 fifth commit의 변경 사항은
 Staging Area에 남아 있길 바란다면 reset을 어떤 옵션과 함께 사용하면 되는지 적으시오.
 
-- 답: git reset --soft 345hj26, git reset --hard 345hj26
+- 답: git reset --soft 345hj26
 
 ### Q8
 ```git log --oneline```으로 commit의 기록을 확인해보니 아래와 같은 log를 확인 할 수 있었다.
@@ -71,7 +71,7 @@ s2d3f4g fourth commit
 reset은 너무 위험하니 revert를 사용하려고 하여 ```fifth commit```을 되돌리고 싶다면 
 어떤 명령어를 사용하면 되는지 적으시오. 
 
-- 답: git revert --no-commit a1s2d3f
+- 답: git revert a1s2d3f
 
 ### Q9
 여러 사람이 협업하는 프로젝트에서 커밋을 되돌려야 한다.  
